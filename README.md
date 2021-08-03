@@ -1,3 +1,3 @@
-Tomasz Furmanek
-Institute of Marine Research (IMR)
-tomasz@hi.no  
+Tomasz Furmanek<br>
+Institute of Marine Research (IMR)<br>
+email tomasz@hi.no  
